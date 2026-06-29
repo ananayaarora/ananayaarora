@@ -4,7 +4,7 @@
 🤖 Generative AI & Machine Learning Enthusiast  
 💻 Aspiring Software Engineer | ML Intern  
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** with hands-on experience in **Python, C++, Data Structures, and Generative AI**.  
+I am a **Artificial Intelligence and Machine Learning** undergraduate specializing in **Generative AI and Machine Learning** with hands-on experience in **Python, C++, Data Structures, and Generative AI**.  
 I enjoy building **AI-powered applications** and solving real-world problems through clean, scalable code.
 
 ---
